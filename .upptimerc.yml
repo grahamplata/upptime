@@ -3,11 +3,11 @@ owner: grahamplata # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  - name: Website
+  - name: grahamplata.com
     url: https://grahamplata.com/
-  - name: Helm Charts
+  - name: grahamplata.github.io/charts
     url: https://grahamplata.github.io/charts
-  - name: Cat Shirt
+  - name: thatcatshirt.com
     url: https://thatcatshirt.com/
 
 status-website:
