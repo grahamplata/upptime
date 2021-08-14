@@ -40,7 +40,7 @@
     "url": "https://thatcatshirt.com/",
     "icon": "https://favicons.githubusercontent.com/thatcatshirt.com",
     "slug": "thatcatshirt-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 144,
     "timeMonth": 128,
     "timeYear": 186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-14": 0
+    }
   }
 ]
