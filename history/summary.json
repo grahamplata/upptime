@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 96,
+    "time": 127,
+    "timeDay": 67,
     "timeWeek": 99,
-    "timeMonth": 102,
-    "timeYear": 128,
+    "timeMonth": 101,
+    "timeYear": 127,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 199,
-    "timeWeek": 106,
+    "timeDay": 44,
+    "timeWeek": 103,
     "timeMonth": 92,
     "timeYear": 89,
     "dailyMinutesDown": {}
@@ -41,18 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/thatcatshirt.com",
     "slug": "thatcatshirt-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 189,
-    "timeDay": 246,
-    "timeWeek": 174,
-    "timeMonth": 136,
-    "timeYear": 189,
-    "dailyMinutesDown": {
-      "2021-08-14": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 191,
+    "timeDay": 360,
+    "timeWeek": 207,
+    "timeMonth": 144,
+    "timeYear": 191,
+    "dailyMinutesDown": {}
   }
 ]
